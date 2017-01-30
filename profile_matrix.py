@@ -5,10 +5,12 @@
 ######################
 from csv import reader
 import numpy as np
-text_file = open("Output.txt", "w")
 
-for it in range (1,10):
-	with open('banglish\\' + str(it) +'.csv', 'r') as f:
+text_file = open("Output.txt", "w")		#destination folder
+datacount = 10   # to  dataset
+path = 'bengali\\'
+for it in range (1,datacount):
+	with open(path + str(it) +'.csv', 'r') as f:
 		data = list(reader(f))
 	one , two , xxx = [[],[],[]]
 	noun  = []

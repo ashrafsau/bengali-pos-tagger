@@ -1,14 +1,14 @@
-ami vat khai 
+আমার নাম শামীম 
 PRO V N 
-ami dhaka jai 
+আমি ঢাকা জাই 
 PRO N V 
-ami suste porashona kori 
+আমি স্কুলে পড়াশোনা করি 
 PRO N V  
-surjo purbodike uthe 
+সুরজ পুরবদিকে উথে 
 N N V 
-goru ghash khay 
+গরু ঘাশ খায় 
 N N V 
-ami kolom diye likhi 
+আমি কলম দিয়ে লিখি 
 PRO N V  
 akasher rong nil 
 PRO N N 
