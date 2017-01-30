@@ -1,4 +1,18 @@
 ami vat khai 
 PRO V N 
-ami vat khai 
-PRO V N 
+ami dhaka jai 
+PRO N V 
+ami suste porashona kori 
+PRO N V  
+surjo purbodike uthe 
+N N V 
+goru ghash khay 
+N N V 
+ami kolom diye likhi 
+PRO N V  
+akasher rong nil 
+PRO N N 
+bangladesher rajdhani dhaka 
+N PRO N 
+amdr jatiyo ful shapla 
+PRO N N  

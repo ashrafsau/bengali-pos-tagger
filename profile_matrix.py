@@ -7,8 +7,8 @@ from csv import reader
 import numpy as np
 text_file = open("Output.txt", "w")
 
-for it in range (2):
-	with open(str(it) +'.csv', 'r') as f:
+for it in range (1,10):
+	with open('banglish\\' + str(it) +'.csv', 'r') as f:
 		data = list(reader(f))
 	one , two , xxx = [[],[],[]]
 	noun  = []
