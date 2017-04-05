@@ -1,0 +1,707 @@
+﻿নাটকের JJ- NN- 
+কাহিনীতে NN- NN- 
+দেখা RB- V- 
+যায়, V- V- 
+অর্পা NN- NN- 
+ভালোবাসে V- NN- 
+সোয়েব NN- NN- 
+নামে DM- NN- 
+এক QT- QT- 
+বড় JJ- JJ- 
+লোকের JJ- NN- 
+বখাটে JJ- JJ- 
+ছেলেকে PR- NN- 
+। ।- ।- 
+।- ।- 
+ধনী JJ- JJ- 
+বাবা-মায়ের PR- NN- 
+সন্তান PR- NN- 
+অর্পা NN- NN- 
+(মেহজাবীন) NN- NN- 
+বিয়ের JJ- NN- 
+আসর NN- NN- 
+থেকে PSP- PSP- 
+পালিয়ে RB- V- 
+যায় V- V- 
+। ।- ।- 
+।- ।- 
+রেলস্টেশনে NN- NN- 
+গিয়ে V- PSP- 
+অপেক্ষা RB- JJ- 
+করে V- V- 
+সোয়েবের NN- NN- 
+জন্য RP- RP- 
+। ।- ।- 
+গুগল NN- NN- NN- 
+মাঝেমধ্যেই CC- JJ- RP- 
+তার PR- PR- PR- 
+লোগোয় NN- NN- NN- 
+এ DM- PSP- DM- 
+ধরনের RB- JJ- JJ- 
+পরিবর্তন NN- NN- NN- 
+এনে DM- V- V- 
+থাকে DM- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+বিশেষ NN- NN- CC- 
+করে V- DM- CC- 
+কোনো DM- DM- RP- 
+বিশেষ NN- NN- JJ- 
+দিবস, NN- NN- NN- 
+খ্যাতিমান NN- NN- JJ- 
+কোনো DM- DM- RP- 
+ব্যক্তির PR- NN- NN- 
+জন্ম QT- NN- NN- 
+বা CC- RP- CC- 
+মৃত্যুবার্ষিকী, NN- NN- NN- 
+আশ্চর্য NN- JJ- JJ- 
+ঘটনা, NN- NN- NN- 
+কোনো DM- NN- JJ- 
+দেশের NN- NN- NN- 
+জাতীয় NN- NN- JJ- 
+দিবসকে NN- NN- NN- 
+সম্মান RB- JJ- V- 
+জানাতে V- V- V- 
+গুগল NN- NN- NN- 
+তার PR- PR- PR- 
+লোগোয় NN- NN- NN- 
+বৈচিত্র্যময় JJ- JJ- RB- 
+পরিবর্তন V- NN- V- 
+আনে DM- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+গুগলের NN- NN- NN- 
+এ DM- RP- DM- 
+বিশেষ NN- NN- JJ- 
+লোগোকে NN- NN- NN- 
+বলা V- V- V- 
+হয় DM- V- V- 
+গুগল NN- NN- NN- 
+ডুডল NN- NN- NN- 
+। ।- ।- ।- 
+মোহামেডান-শেখ NN- NN- NN- NN- NN- 
+জামাল NN- NN- NN- NN- NN- 
+ম্যাচটি NN- DM- NN- DM- NN- 
+গোলশূন্য QT- QT- JJ- QT- V- 
+ড্র JJ- JJ- JJ- RD- V- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+তাই RP- CC- DM- CC- DM- 
+এ PR- DM- PSP- RP- DM- 
+গ্রুপের NN- NN- NN- RD- PSP- 
+দুই QT- QT- QT- QT- QT- 
+জায়ান্টের JJ- NN- NN- RD- PR- 
+আবার RP- RP- DM- CC- PSP- 
+দেখা V- RB- RB- NN- V- 
+হচ্ছে V- V- V- V- V- 
+সেমিফাইনালে NN- NN- NN- RD- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+ফলে RP- CC- DM- CC- RB- 
+সেমিফাইনালে NN- NN- NN- RD- NN- 
+আবারও NN- RP- DM- CC- RB- 
+মুখোমুখি V- RB- JJ- PR- JJ- 
+হতে RP- PSP- RB- PSP- RB- 
+হচ্ছে V- V- V- V- V- 
+মোহামেডান-শেখ NN- NN- NN- NN- NN- 
+জামালকে NN- NN- NN- NN- NN- 
+। ।- ।- ।- ।- ।- 
+সিজেএফবি NN- NN- NN- NN- NN- 
+অ্যাওয়ার্ড NN- NN- NN- NN- NN- 
+বছরের NN- RP- NN- NN- NN- 
+শেষ JJ- JJ- JJ- RB- JJ- 
+পুরস্কার NN- NN- NN- NN- NN- 
+বিতরণী JJ- NN- NN- NN- NN- 
+অনুষ্ঠান NN- NN- NN- NN- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+এবার PSP- PSP- DM- PSP- DM- 
+এই RP- DM- DM- DM- DM- 
+মর্যাদাজনক JJ- JJ- JJ- JJ- JJ- 
+পুরস্কারের NN- NN- NN- NN- NN- 
+১৩তম QT- JJ- QT- QT- QT- 
+আসর NN- NN- NN- NN- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+যুগ NN- NN- NN- NN- NN- 
+পেরিয়ে V- V- RB- V- RB- 
+এই RP- DM- DM- DM- DM- 
+পুরস্কারের NN- NN- NN- NN- JJ- 
+মূল্য NN- NN- NN- JJ- NN- 
+এখন PSP- RB- RP- PSP- DM- 
+তারকাদের NN- JJ- NN- DM- NN- 
+কাছে PSP- RP- PSP- PSP- PSP- 
+অনেক JJ- JJ- JJ- V- JJ- 
+। ।- ।- ।- ।- ।- 
+ব্যক্তিগত JJ- JJ- JJ- 
+জীবনের RB- NN- JJ- 
+অনেক RB- RP- QT- 
+গোপন JJ- JJ- JJ- 
+তথ্য NN- NN- NN- 
+প্রকাশ NN- V- V- 
+হওয়ার RB- V- V- 
+পর CC- PSP- V- 
+সাফল্যের JJ- JJ- JJ- 
+ট্র্যাক NN- NN- NN- 
+থেকে RP- PSP- PSP- 
+অনেকটা RB- RP- JJ- 
+ছিটকে RB- V- JJ- 
+পড়েছিলেন V- V- V- 
+ক্রীড়াজগতের RB- NN- NN- 
+অন্যতম RB- JJ- JJ- 
+এই DM- DM- DM- 
+ধনকুবের NN- NN- NN- 
+। ।- ।- ।- 
+।- ।- ।- 
+টানা RB- RP- JJ- 
+দুই QT- QT- QT- 
+বছর NN- NN- NN- 
+তিনি PR- PR- PR- 
+ছিলেন V- V- V- 
+শিরোপাবঞ্চিত JJ- JJ- JJ- 
+। ।- ।- ।- 
+।- ।- ।- 
+শঙ্কায় RB- JJ- JJ- 
+পড়েছিলো V- V- V- 
+ক্যারিয়ার NN- PR- JJ- 
+। ।- ।- ।- 
+আইপিএল NN- NN- NN- 
+শেষ NN- CC- JJ- 
+হওয়ার V- RD- V- 
+আগে JJ- RP- RB- 
+ইনজুরিমুক্ত NN- NN- JJ- 
+হওয়ার V- JJ- V- 
+কোনো PR- PSP- NN- 
+সম্ভাবনাই NN- NN- JJ- 
+নেই RP- RP- RB- 
+অসি JJ- JJ- NN- 
+অধিনায়কের NN- NN- NN- 
+। ।- ।- ।- 
+।- ।- ।- 
+প্রায় JJ- RP- RB- 
+দুই QT- QT- JJ- 
+থেকে PSP- PSP- PSP- 
+আড়াই QT- QT- JJ- 
+মাস NN- NN- NN- 
+মাঠের PR- NN- NN- 
+বাইরে RP- PSP- JJ- 
+থাকতে V- NN- NN- 
+হবে V- V- V- 
+তাকে PR- PR- PR- 
+। ।- ।- ।- 
+।- ।- ।- 
+ইনজুরিমুক্ত NN- NN- JJ- 
+হয়ে PSP- V- RB- 
+অ্যাশেজে NN- JJ- NN- 
+অংশগ্রহণের NN- NN- V- 
+জন্য PSP- RP- PSP- 
+এমন PR- PSP- PSP- 
+সিদ্ধান্ত NN- NN- NN- 
+নিয়েছেন V- V- V- 
+তিনি PR- PR- PR- 
+। ।- ।- ।- 
+টসে NN- NN- NN- NN- 
+হেরে V- V- V- V- 
+জিম্বাবুয়ের JJ- NN- NN- NN- 
+অধিনায়ক NN- NN- NN- NN- 
+ব্রেন্ডন NN- NN- NN- NN- 
+টেইলরের NN- NN- NN- PR- 
+আমন্ত্রণে V- NN- V- JJ- 
+প্রথমে QT- JJ- QT- JJ- 
+ব্যাটিংয়ের V- NN- V- NN- 
+সুযোগ NN- NN- NN- V- 
+পায় V- V- V- V- 
+স্বাগতিক JJ- NN- JJ- JJ- 
+ওয়েস্ট NN- NN- NN- NN- 
+ইন্ডিজ NN- NN- NN- NN- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+নবনির্বাচিত JJ- NN- JJ- JJ- 
+সরকারের NN- NN- NN- NN- 
+ঘোষণায় V- NN- V- NN- 
+শুক্রবার NN- NN- QT- NN- 
+ক্যারিবীয় JJ- NN- NN- NN- 
+দ্বীপপুঞ্জে NN- NN- NN- NN- 
+ছিল V- V- V- V- 
+সরকারি JJ- NN- JJ- JJ- 
+ছুটির NN- NN- NN- NN- 
+দিন NN- NN- NN- NN- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+আর CC- RP- CC- CC- 
+তাই RP- DM- RP- RB- 
+সেন্ট NN- NN- NN- NN- 
+জর্জের NN- NN- NN- NN- 
+মাঠে NN- NN- NN- NN- 
+উত্সবমুখর JJ- JJ- JJ- JJ- 
+পরিবেশে NN- NN- NN- NN- 
+আগত JJ- V- DM- V- 
+দর্শকরা NN- NN- NN- NN- 
+ম্যাচটি NN- NN- NN- NN- 
+উপভোগও V- JJ- V- V- 
+করেছেন V- V- V- NN- 
+দারুণভাবে RB- JJ- JJ- JJ- 
+। ।- ।- ।- ।- 
+ইতালির NN- NN- NN- 
+সঙ্গে CC- PSP- PSP- 
+২-২ QT- NN- QT- 
+গোলে NN- NN- NN- 
+ড্রয়ের NN- NN- NN- 
+পর RB- RP- PSP- 
+এবার DM- RB- DM- 
+রাশিয়ার NN- NN- NN- 
+সঙ্গেও CC- PSP- PSP- 
+ড্র NN- V- NN- 
+করেছে V- V- V- 
+তারা PR- PR- PR- 
+। ।- ।- ।- 
+।- ।- ।- 
+সোমবার NN- NN- NN- 
+ব্রাজিলকে NN- NN- NN- 
+১-১ QT- NN- QT- 
+গোলে NN- NN- NN- 
+রুখে V- V- V- 
+দেয় V- V- V- 
+রাশিয়ানরা NN- NN- NN- 
+। ।- ।- ।- 
+।- ।- ।- 
+সর্বশেষ RB- JJ- JJ- 
+গত RB- RB- JJ- 
+বছরের NN- NN- NN- 
+অক্টোবরে NN- NN- NN- 
+এশিয়ান NN- NN- JJ- 
+জায়ান্ট JJ- NN- JJ- 
+জাপানের NN- NN- NN- 
+বিপক্ষে JJ- RP- PSP- 
+৪-০ RP- NN- QT- 
+গোলে NN- NN- NN- 
+জয়ের NN- NN- NN- 
+দেখা JJ- V- V- 
+পেয়েছিল JJ- V- V- 
+ব্রাজিল NN- NN- NN- 
+। ।- ।- ।- 
+এছাড়া DM- RP- CC- CC- 
+ডাল, NN- NN- NN- NN- 
+মুরগি NN- NN- NN- NN- 
+ও RP- RP- RP- RP- 
+আলুর NN- NN- NN- NN- 
+দাম NN- NN- JJ- NN- 
+লাফিয়ে RB- RB- V- RB- 
+লাফিয়ে RB- RB- V- RB- 
+বেড়েই V- V- V- V- 
+চলেছে V- V- V- V- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+ভরা JJ- JJ- JJ- JJ- 
+মৌসুমেও DM- NN- NN- NN- 
+শীতকালীন JJ- JJ- JJ- JJ- 
+শাকসবজির NN- NN- NN- NN- 
+দাম NN- NN- JJ- NN- 
+আকাশছোঁয়া V- JJ- NN- JJ- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+সরকার NN- NN- NN- NN- 
+বা RB- RP- CC- CC- 
+অন্য NN- PR- JJ- RD- 
+কোনো NN- JJ- RP- RD- 
+পক্ষ NN- NN- NN- NN- 
+থেকে PSP- PSP- PSP- RB- 
+নিত্যপণ্যের JJ- NN- NN- NN- 
+দাম NN- NN- JJ- NN- 
+পর্যবেক্ষণ V- V- V- V- 
+ও PSP- RP- RP- RB- 
+নিয়ন্ত্রণ V- V- V- V- 
+করার V- V- V- V- 
+মতো JJ- RP- PSP- RD- 
+কেউ NN- PR- PR- PR- 
+নেই V- JJ- RP- RD- 
+বলেই V- NN- RP- V- 
+নিয়মনীতির NN- NN- NN- NN- 
+তোয়াক্কা NN- NN- JJ- V- 
+না NN- NN- RP- RD- 
+করে V- V- V- V- 
+ব্যবসায়ীরা NN- NN- NN- NN- 
+লাগামহীনভাবে JJ- RB- RB- JJ- 
+দাম NN- NN- JJ- NN- 
+বাড়িয়েই V- V- RB- V- 
+চলেছেন V- V- V- V- 
+বলে V- V- RP- RD- 
+জানিয়েছেন V- V- V- V- 
+সংশ্লিষ্টরা NN- NN- NN- NN- 
+। ।- ।- ।- ।- 
+গতকাল V- NN- NN- RB- NN- 
+দ্বিতীয় RB- QT- JJ- QT- JJ- 
+দিন CC- NN- NN- NN- NN- 
+ব্যাট V- NN- NN- NN- NN- 
+হাতে NN- NN- NN- JJ- PSP- 
+সেঞ্চুরির RB- NN- NN- NN- NN- 
+পথেই RP- NN- NN- PSP- NN- 
+হাঁটছেন V- V- V- V- V- 
+শচীনও NN- NN- NN- NN- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+গতকাল RB- NN- NN- RB- NN- 
+দিনের NN- NN- JJ- JJ- NN- 
+খেলা PSP- NN- NN- NN- NN- 
+শেষ DM- NN- RB- V- RB- 
+হলে V- V- RD- V- V- 
+৭১ NN- QT- QT- QT- QT- 
+রানে PSP- NN- NN- NN- NN- 
+অপরাজিত RP- NN- JJ- JJ- JJ- 
+থেকে V- PSP- PSP- PSP- PSP- 
+মাঠ NN- NN- NN- DM- NN- 
+ছাড়েন DM- V- V- V- V- 
+তিনি PR- PR- PR- PR- PR- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+তার QT- PR- PR- PR- PR- 
+সঙ্গে PR- NN- CC- PSP- RP- 
+বিরাট RP- NN- NN- NN- NN- 
+কোহলিও QT- NN- NN- NN- NN- 
+ব্যাটিং PNC- NN- JJ- NN- NN- 
+নৈপুণ্য CC- JJ- NN- JJ- NN- 
+দেখিয়েছেন V- V- V- V- V- 
+। ।- ।- ।- ।- ।- 
+এর RP- RP- RP- 
+আগে RP- RB- RB- 
+১৯৯২ JJ- RD- QT- 
+সালে NN- NN- NN- 
+স্বাগতিক JJ- JJ- NN- 
+নিউজিল্যান্ডের NN- NN- NN- 
+বিপক্ষে RP- PSP- RP- 
+ওয়ানডে JJ- JJ- JJ- 
+সিরিজ NN- NN- NN- 
+জিতেছিল V- V- V- 
+ইংল্যান্ড NN- NN- NN- 
+। ।- ।- ।- 
+।- ।- ।- 
+সেবার DM- RB- RB- 
+তিন JJ- QT- NN- 
+ম্যাচ NN- PR- NN- 
+ওয়ানডে JJ- JJ- JJ- 
+সিরিজে NN- NN- NN- 
+নিউজিল্যান্ডকে NN- NN- NN- 
+৩-০ QT- RD- QT- 
+ব্যবধানে PSP- PSP- RP- 
+হোয়াইটওয়াশ RB- NN- NN- 
+করেছিল V- V- V- 
+সফরকারীরা NN- NN- PR- 
+। ।- ।- ।- 
+।- ।- ।- 
+গতকাল RB- RB- DM- 
+ইডেন JJ- NN- NN- 
+পার্কে NN- NN- NN- 
+টসে RB- NN- NN- 
+হেরে V- V- V- 
+আগে RP- RB- RB- 
+ব্যাট JJ- NN- NN- 
+করতে V- V- V- 
+নেমে V- V- V- 
+১৮৫ JJ- RD- QT- 
+রানেই NN- NN- NN- 
+অলআউট QT- NN- RD- 
+হয়ে V- V- RB- 
+যায় V- V- V- 
+নিউজিল্যান্ড NN- NN- NN- 
+। ।- ।- ।- 
+কেউ PR- PR- PR- PR- PR- 
+মূল NN- NN- JJ- NN- JJ- 
+কপি NN- NN- NN- NN- NN- 
+না JJ- CC- NN- RP- RP- 
+পেয়ে V- V- V- V- RB- 
+কিনছেন V- V- V- V- V- 
+ফটোকপি NN- NN- NN- NN- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+আবার RB- CC- CC- PSP- CC- 
+কেউ PR- PR- PR- PR- PR- 
+ধার RB- JJ- V- NN- RB- 
+করছেন V- V- V- V- V- 
+অন্যের PR- PR- PR- NN- PR- 
+কাছ PR- RD- RD- PSP- RB- 
+থেকে CC- PSP- PSP- PSP- PSP- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+এসব JJ- CC- CC- CC- PR- 
+ঘটনা NN- RD- NN- NN- NN- 
+এখন JJ- CC- RP- NN- RB- 
+বিভিন্ন PR- RD- JJ- NN- NN- 
+স্থানে NN- NN- NN- NN- NN- 
+নিয়মিত JJ- CC- JJ- RD- PR- 
+দৃশ্যে NN- RD- NN- NN- NN- 
+পরিণত RB- RD- PSP- NN- NN- 
+হয়েছে V- V- V- V- V- 
+। ।- ।- ।- ।- ।- 
+শুধু JJ- RP- RP- JJ- 
+শিল্পী JJ- NN- NN- NN- 
+বললেই V- V- V- RB- 
+গুণী JJ- JJ- JJ- JJ- 
+এই PR- DM- DM- DM- 
+শিল্পীর NN- JJ- NN- NN- 
+যথাযথ JJ- RP- RP- JJ- 
+মূল্যায়নে JJ- V- V- NN- 
+আমাদের NN- PR- PR- PR- 
+অতৃপ্তি NN- V- V- JJ- 
+রয়ে RD- V- V- RB- 
+যায় V- V- V- V- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+গুণী JJ- JJ- JJ- JJ- 
+এই PR- DM- DM- DM- 
+শিল্পী NN- JJ- NN- NN- 
+আজকের JJ- JJ- RP- JJ- 
+যুগে NN- NN- NN- NN- 
+অনেক QT- JJ- JJ- JJ- 
+শিল্পীরই NN- JJ- NN- NN- 
+অনুকরণীয় PSP- V- V- RB- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+একজন PR- QT- QT- PR- 
+শিল্পী NN- NN- NN- NN- 
+তখনই RP- RP- RP- DM- 
+শতভাগ JJ- JJ- JJ- JJ- 
+সফল, V- JJ- JJ- NN- 
+যখন CC- RP- RP- DM- 
+তাকে PR- PR- PR- PR- 
+প্রজন্মের NN- NN- NN- NN- 
+পর RB- RP- RP- DM- 
+প্রজন্মের NN- NN- NN- NN- 
+শিল্পীরা NN- NN- NN- NN- 
+অনুকরণ NN- V- V- V- 
+কিংবা CC- RP- RP- CC- 
+অনুসরণ NN- V- V- V- 
+করতে V- V- V- RP- 
+থাকে V- V- V- V- 
+। ।- ।- ।- ।- 
+অভিনয়ের NN- NN- NN- 
+প্রথম NN- JJ- QT- 
+দিকে NN- JJ- PSP- 
+নির্মাতারা NN- NN- NN- 
+শুধু JJ- PSP- QT- 
+শহুরে JJ- JJ- JJ- 
+চরিত্রেই NN- NN- NN- 
+শারমীন NN- NN- NN- 
+শীলাকে NN- NN- NN- 
+ডাকতেন RB- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+কিন্তু CC- RP- CC- 
+তিনি PR- RP- PR- 
+সব NN- NN- PSP- 
+চরিত্রে NN- NN- NN- 
+কাজ V- NN- NN- 
+করা V- V- V- 
+অভিনেত্রী NN- NN- NN- 
+হতে V- PSP- PSP- 
+চেয়েছেন V- PSP- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+তবে CC- PSP- CC- 
+শারমীন NN- NN- NN- 
+শীলাকে NN- NN- NN- 
+এখন JJ- RB- RB- 
+অভিনয়ে NN- NN- NN- 
+আগের JJ- JJ- QT- 
+মতো PSP- PSP- PSP- 
+পাওয়া V- V- RB- 
+যায় V- V- V- 
+না RP- JJ- RP- 
+। ।- ।- ।- 
+মন্ত্রী NN- NN- NN- 
+বলেন, JJ- RB- V- 
+ধানের NN- NN- JJ- 
+দাম QT- PR- NN- 
+না JJ- RP- RP- 
+বাড়লেও JJ- V- V- 
+চালের NN- NN- JJ- 
+দাম NN- NN- NN- 
+বেড়েছে V- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+আমাদের DM- PR- PR- 
+ধারণা, NN- NN- NN- 
+সম্প্রতি NN- JJ- JJ- 
+শীত JJ- NN- NN- 
+ও RB- CC- CC- 
+কুয়াশাকে NN- NN- NN- 
+অজুহাত DM- NN- RB- 
+দেখিয়ে V- V- V- 
+মিলার NN- PR- NN- 
+ও RP- CC- CC- 
+আড়তদাররা NN- NN- NN- 
+চালের NN- PR- JJ- 
+দাম JJ- NN- NN- 
+বাড়িয়েছে V- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+তবে RD- CC- RP- 
+তা RD- PR- CC- 
+নিশ্চিতভাবে NN- JJ- JJ- 
+বলতে RD- JJ- RB- 
+পারছি JJ- V- JJ- 
+না RD- RP- RP- 
+। ।- ।- ।- 
+বাবা NN- NN- NN- NN- 
+টিভি NN- NN- NN- NN- 
+থেকে RP- PSP- PSP- PSP- 
+মুখ NN- NN- NN- NN- 
+ফিরিয়ে RB- RB- V- RB- 
+বললেন, V- V- V- V- 
+ফোর্থ QT- QT- NN- JJ- 
+হয়েই V- PSP- V- JJ- 
+এত JJ- JJ- RP- DM- 
+খুশি NN- JJ- JJ- NN- 
+উপরের RB- JJ- DM- JJ- 
+তলার NN- NN- NN- NN- 
+হাসান NN- NN- NN- NN- 
+সাহেবের JJ- NN- NN- NN- 
+ছেলে NN- NN- NN- NN- 
+ক্লাসে NN- NN- DM- NN- 
+ফার্স্ট QT- QT- JJ- JJ- 
+হয়েছে V- V- V- RB- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+আসাদের JJ- NN- NN- V- 
+হাসিমুখ... NN- JJ- JJ- NN- 
+আফতাব NN- NN- NN- NN- 
+উদ্দিন NN- NN- NN- NN- 
+বউ-শাশুড়ির JJ- NN- NN- JJ- 
+সম্পর্ক NN- NN- JJ- NN- 
+একটি QT- QT- QT- QT- 
+বীজ NN- NN- NN- NN- 
+থেকে DM- PSP- PSP- PSP- 
+ছোট্ট JJ- JJ- JJ- JJ- 
+দুই QT- QT- QT- QT- 
+পাতার NN- NN- NN- NN- 
+একটি QT- QT- QT- RP- 
+চারা JJ- NN- NN- JJ- 
+গাছের NN- NN- NN- NN- 
+জন্ম RB- V- JJ- NN- 
+হয় V- V- V- V- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+তারপর RP- JJ- PSP- CC- 
+শুরু NN- NN- RB- JJ- 
+হয় V- PSP- V- RB- 
+তার PR- DM- PR- PR- 
+বেড়ে RB- JJ- RB- RB- 
+ওঠা, V- V- V- V- 
+বিস্তৃতি V- JJ- JJ- JJ- 
+। ।- ।- ।- ।- 
+জাতীয় JJ- JJ- NN- 
+অর্থনীতিতে NN- NN- NN- 
+২১ QT- QT- QT- 
+শতাংশ NN- QT- QT- 
+অবদান RB- RB- V- 
+রাখা RP- V- V- 
+আবাসন NN- JJ- JJ- 
+শিল্প NN- NN- NN- 
+কয়েক QT- QT- DM- 
+বছর NN- RB- NN- 
+ধরে PSP- RB- V- 
+ক্রমে RB- PSP- QT- 
+অবনতির RB- JJ- NN- 
+দিকে RB- RP- RD- 
+যাচ্ছে V- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+দু’বছর NN- QT- QT- 
+আগে RB- RP- NN- 
+এ DM- DM- DM- 
+শিল্পের NN- NN- NN- 
+যে DM- RP- PR- 
+হারে NN- RD- NN- 
+অগ্রগতি NN- JJ- NN- 
+হয়েছে, V- V- V- 
+তাতে PSP- DM- RP- 
+প্রবৃদ্ধি NN- NN- NN- 
+৩০ QT- QT- QT- 
+শতাংশ NN- RD- NN- 
+হবে RB- RB- V- 
+বলে RB- V- V- 
+অনুমান RB- JJ- NN- 
+করা V- RB- V- 
+হয়েছিল RB- V- V- 
+। ।- ।- ।- 
+।- ।- ।- 
+কিন্তু CC- CC- CC- 
+প্রবৃদ্ধি NN- NN- NN- 
+তো RB- RP- DM- 
+হয়ইনি, RB- V- V- 
+বরং CC- CC- RB- 
+গত JJ- PSP- NN- 
+বছরের NN- NN- NN- 
+৭ QT- QT- QT- 
+শতাংশ NN- RD- QT- 
+নেমে RB- RB- V- 
+এসেছে V- V- V- 
+। ।- ।- ।- 
+ঘরে NN- NN- NN- NN- 
+বসে V- V- V- JJ- 
+কাজ NN- NN- NN- NN- 
+করা V- V- V- V- 
+বেশ JJ- RP- NN- RP- 
+সহজও JJ- JJ- JJ- JJ- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+প্রয়োজন NN- NN- JJ- NN- 
+শুধু RB- PSP- JJ- DM- 
+একটি QT- QT- JJ- QT- 
+কম্পিউটার NN- NN- NN- NN- 
+আর CC- CC- CC- CC- 
+সঙ্গে PSP- PSP- RD- CC- 
+উচ্চ JJ- JJ- JJ- JJ- 
+ক্ষমতার NN- NN- JJ- NN- 
+ইন্টারনেট NN- NN- NN- NN- 
+সংযোগ NN- NN- CC- NN- 
+। ।- ।- ।- ।- 
+।- ।- ।- ।- 
+এরপর RB- CC- JJ- CC- 
+প্রতিষ্ঠানের NN- NN- NN- NN- 
+নেটওয়ার্কে NN- NN- NN- NN- 
+যুক্ত NN- NN- JJ- V- 
+হয়ে V- V- V- CC- 
+কাজ NN- NN- NN- NN- 
+করাটা V- V- V- V- 
+মোটেই RP- PSP- PNC- RB- 
+কঠিন JJ- JJ- V- JJ- 
+কিছু RP- RD- JJ- PSP- 
+নয় RP- RP- RB- RP- 
+। ।- ।- ।- ।- 
+এ PR- RP- PSP- RP- DM- 
+ধারাবাহিকে NN- JJ- JJ- RD- NN- 
+তিনি PR- PR- PR- PR- PR- 
+ছিলেন V- V- V- V- V- 
+হিমুর NN- NN- NN- NN- NN- 
+স্বামীর NN- NN- NN- DM- NN- 
+ভূমিকায় RB- NN- JJ- RD- NN- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+নাটকের NN- NN- NN- PNC- NN- 
+একটি QT- QT- QT- QT- DM- 
+দৃশ্য NN- NN- NN- RD- NN- 
+এমন RP- RP- DM- RP- DM- 
+ছিল V- V- RB- V- V- 
+যে, RP- RP- DM- RP- CC- 
+হিমু NN- NN- NN- NN- NN- 
+এক QT- QT- DM- QT- QT- 
+সময় PSP- NN- NN- JJ- NN- 
+জানতে V- V- RB- V- V- 
+পারে PSP- V- V- DM- V- 
+তার PR- PR- PR- PR- PR- 
+স্বামী NN- NN- NN- NN- NN- 
+আগে DM- RP- JJ- PSP- RB- 
+একটা QT- QT- DM- QT- QT- 
+বিয়ে NN- NN- NN- V- V- 
+করেছিল V- V- V- V- V- 
+। ।- ।- ।- ।- ।- 
+।- ।- ।- ।- ।- 
+আর CC- CC- CC- RP- RB- 
+এ PR- PR- DM- QT- QT- 
+নিয়ে DM- RP- RB- RD- RB- 
+স্বামীর NN- NN- NN- JJ- NN- 
+ওপর DM- PSP- DM- RP- CC- 
+তার PR- PR- PR- PR- PR- 
+গভীর JJ- RB- JJ- RD- JJ- 
+অভিমান V- JJ- NN- RD- JJ- 
+। ।- ।- ।- ।- ।- 
